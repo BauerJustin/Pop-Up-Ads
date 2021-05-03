@@ -1,0 +1,15 @@
+pop_up.spec
+build/pop_up/Analysis-00.toc
+__pycache__/pop_up.cpython-38.pyc
+build/pop_up/base_library.zip
+build/pop_up/EXE-00.toc
+build/pop_up/PKG-00.pkg
+build/pop_up/PKG-00.toc
+build/pop_up/PYZ-00.pyz
+build/pop_up/PYZ-00.toc
+build/pop_up/Tree-00.toc
+build/pop_up/Tree-01.toc
+build/pop_up/warn-pop_up.txt
+build/pop_up/xref-pop_up.html
+build/pop_up/localpycos/struct.pyo
+dist/pop_up
